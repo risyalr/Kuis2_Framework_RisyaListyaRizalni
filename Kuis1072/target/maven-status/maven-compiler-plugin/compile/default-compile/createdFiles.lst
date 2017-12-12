@@ -1,0 +1,9 @@
+com\Kuis1072\Kuis1072\Kuis1072Application.class
+com\Kuis1072\Kuis1072\service\cv_1072Service.class
+com\Kuis1072\Kuis1072\entity\cv_1072.class
+com\Kuis1072\Kuis1072\repo\nilai_1072Repo.class
+com\Kuis1072\Kuis1072\controller\cv_1072Controller.class
+com\Kuis1072\Kuis1072\controller\nilai_1072Controller.class
+com\Kuis1072\Kuis1072\repo\cv_1072Repo.class
+com\Kuis1072\Kuis1072\service\nilai_1072Service.class
+com\Kuis1072\Kuis1072\entity\nilai_1072.class
